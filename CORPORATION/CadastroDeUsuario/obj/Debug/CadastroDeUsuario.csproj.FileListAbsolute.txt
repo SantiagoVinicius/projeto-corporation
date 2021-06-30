@@ -1,0 +1,10 @@
+C:\Users\vinicius.ssantos71\projeto-corporation\CORPORATION\CadastroDeUsuario\bin\Debug\CadastroDeUsuario.exe.config
+C:\Users\vinicius.ssantos71\projeto-corporation\CORPORATION\CadastroDeUsuario\bin\Debug\CadastroDeUsuario.exe
+C:\Users\vinicius.ssantos71\projeto-corporation\CORPORATION\CadastroDeUsuario\bin\Debug\CadastroDeUsuario.pdb
+C:\Users\vinicius.ssantos71\projeto-corporation\CORPORATION\CadastroDeUsuario\obj\Debug\CadastroDeUsuario.csprojAssemblyReference.cache
+C:\Users\vinicius.ssantos71\projeto-corporation\CORPORATION\CadastroDeUsuario\obj\Debug\CadastroDeUsuario.frmCadastroDeUsuario.resources
+C:\Users\vinicius.ssantos71\projeto-corporation\CORPORATION\CadastroDeUsuario\obj\Debug\CadastroDeUsuario.Properties.Resources.resources
+C:\Users\vinicius.ssantos71\projeto-corporation\CORPORATION\CadastroDeUsuario\obj\Debug\CadastroDeUsuario.csproj.GenerateResource.cache
+C:\Users\vinicius.ssantos71\projeto-corporation\CORPORATION\CadastroDeUsuario\obj\Debug\CadastroDeUsuario.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.ssantos71\projeto-corporation\CORPORATION\CadastroDeUsuario\obj\Debug\CadastroDeUsuario.exe
+C:\Users\vinicius.ssantos71\projeto-corporation\CORPORATION\CadastroDeUsuario\obj\Debug\CadastroDeUsuario.pdb
