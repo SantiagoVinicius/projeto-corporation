@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.1000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroDeUsuario", "CadastroDeUsuario\CadastroDeUsuario.csproj", "{DFECAA6D-849C-4E02-B7DF-E9C4DC716039}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlterarExcluirUsuario", "AlterarExcluirUsuario\AlterarExcluirUsuario.csproj", "{23C7240B-675B-495B-8190-91FBEDF48533}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListagemDeUsuario", "ListagemDeUsuario\ListagemDeUsuario.csproj", "{230032B1-3499-436C-8E4E-1673573833F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{DFECAA6D-849C-4E02-B7DF-E9C4DC716039}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFECAA6D-849C-4E02-B7DF-E9C4DC716039}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFECAA6D-849C-4E02-B7DF-E9C4DC716039}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23C7240B-675B-495B-8190-91FBEDF48533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23C7240B-675B-495B-8190-91FBEDF48533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23C7240B-675B-495B-8190-91FBEDF48533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23C7240B-675B-495B-8190-91FBEDF48533}.Release|Any CPU.Build.0 = Release|Any CPU
+		{230032B1-3499-436C-8E4E-1673573833F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{230032B1-3499-436C-8E4E-1673573833F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{230032B1-3499-436C-8E4E-1673573833F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{230032B1-3499-436C-8E4E-1673573833F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
